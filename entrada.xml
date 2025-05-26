@@ -66,6 +66,14 @@
 </channel> 
 
 <channel>
+<name>[COLOR pink] Desenhos [/COLOR] [COLOR orange] 24Horas [/COLOR]</name>
+<thumbnail>https://archive.org/download/fe6070df-c709-40ca-9f68-a2c9e4239093/fe6070df-c709-40ca-9f68-a2c9e4239093.jpg</thumbnail>
+<fanart>https://archive.org/download/fe6070df-c709-40ca-9f68-a2c9e4239093/fe6070df-c709-40ca-9f68-a2c9e4239093.jpg</fanart>
+<info>[COLOR red] Sejam Bem vindos ao Addon AresVi [/COLOR]</info>
+<externallink>https://raw.githubusercontent.com/addonfenix01/AresVip/refs/heads/main/animacao24horas.xml</externallink>
+</channel>
+  
+<channel>
 <name>[COLOR orange] Filmes [/COLOR] [COLOR pink] +18 [/COLOR]</name>
 <thumbnail>https://archive.org/download/fe6070df-c709-40ca-9f68-a2c9e4239093/fe6070df-c709-40ca-9f68-a2c9e4239093.jpg</thumbnail>
 <fanart>https://archive.org/download/fe6070df-c709-40ca-9f68-a2c9e4239093/fe6070df-c709-40ca-9f68-a2c9e4239093.jpg</fanart>
